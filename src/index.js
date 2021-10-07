@@ -9,6 +9,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 ReactDOM.render(
   <React.StrictMode>
     <Initialize />
+    <Initialize />
+    <Initialize />
+    <Initialize />
+    <Initialize />
+    <Initialize />
   </React.StrictMode>,
   document.getElementById('root'),
 );

@@ -1,6 +1,48 @@
 @import '~@fortawesome/fontawesome-free/css/all.min.css';
 @import 'globals';
+@import '~bootstrap/scss/bootstrap';
 
 body {
   background-color: $favColor !important;
+}
+
+
+#root {
+  width: 90%;
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  // margin: .1rem;
+  justify-content: center;
+  // padding: .2rem;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.app {
+  width: 90%;
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.card {
+  background-color: $background-color !important;
+  border-color: $border-color !important;
+  padding:.1rem;
+  color: aqua;
+  width: 18rem;
+}
+
+#main-contanier {
+  width: 90%;
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  margin: auto;
+  margin-top: 1rem;
+  justify-content: center;
 }
