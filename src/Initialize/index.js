@@ -1,5 +1,3 @@
-/* eslint-disable react/jsx-no-comment-textnodes */
-/* eslint-disable react/jsx-no-undef */
 import React, { useState } from 'react';
 import getJoke from '../api/data/jokeData';
 // import getJoke from '../api/data/jokeData';
