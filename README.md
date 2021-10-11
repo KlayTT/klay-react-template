@@ -1,3 +1,6 @@
+# Klay Edits
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e20b07d-c5c6-4f73-ac33-5069075bd30d/deploy-status)](https://app.netlify.com/sites/reverent-wright-e57329/deploys)
+
 # React Template
 [![Netlify Status](https://api.netlify.com/api/v1/badges/339c4ae9-fc7f-41b4-9b49-2dab0a20eaba/deploy-status)](https://app.netlify.com/sites/react-template-21/deploys)
 
